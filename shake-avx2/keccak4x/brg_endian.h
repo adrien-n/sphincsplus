@@ -1,4 +1,5 @@
 /*
+ * SPDX-License-Identifier: LicenseRef-scancode-brian-gladman-3-clause
  ---------------------------------------------------------------------------
  Copyright (c) 1998-2008, Brian Gladman, Worcester, UK. All rights reserved.
 
